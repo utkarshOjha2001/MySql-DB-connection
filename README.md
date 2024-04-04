@@ -10,13 +10,12 @@ This repository contains a basic Node.js script to establish a connection with a
 
 ## Installation
 
-1. Clone or download this repository to your local machine.
-
-2. Install dependencies using npm:
+1. Install dependencies using npm:
 
     ```bash
     npm install mysql
     ```
+2. You have to install it in your Node.js project only.
 
 ## Usage
 
